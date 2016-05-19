@@ -1091,6 +1091,7 @@ body {
   line-height: 1.42857143;
   color: #ffffff;
   background-color: #222222;
+    text-align: center;
 }
 input,
 button,
@@ -2255,6 +2256,7 @@ pre code {
 }
 table {
   background-color: transparent;
+    text-align: center;
 }
 caption {
   padding-top: 8px;
